@@ -1,6 +1,6 @@
 <!-- Banner Section (Replace URL with your own banner image if you have one) -->
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1327406738793566292/1344080746410672189/standard.gif?ex=67bf9c3d&is=67be4abd&hm=8aae44b7410c313e602d38a8af13d752805753007169101ca3b36bec93ee3db0&=" alt="Banner Image" style="max-width:100%;">
+  <img src="https://media.discordapp.net/attachments/1345764936659238914/1346264797158838322/Untitled_design_4.png?ex=67c78e4c&is=67c63ccc&hm=2c4b29453697460667fe40dae831dd534cee9a885b8de1cb3e643ec2f2883baf&=&format=webp&quality=lossless&width=550&height=309" alt="Banner Image" style="max-width:100%;">
 </div>
 
 # Hi, I'm Flames 👋
