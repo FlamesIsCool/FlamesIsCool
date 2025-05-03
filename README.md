@@ -1,7 +1,5 @@
 <!-- Banner Section (Replace URL with your own banner image if you have one) -->
-<div align="center">
-  <img src="https://cdn2.suno.ai/image_large_d448d47c-5a54-4c5d-a6db-6fa63cd5151f.jpeg" alt="Banner Image" style="max-width:100%;">
-</div>
+
 
 # Hi, I'm Flames 👋
 
