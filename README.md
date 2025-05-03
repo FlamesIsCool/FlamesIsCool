@@ -1,6 +1,6 @@
 <!-- Banner Section (Replace URL with your own banner image if you have one) -->
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1345764936659238914/1346264797158838322/Untitled_design_4.png?ex=67c78e4c&is=67c63ccc&hm=2c4b29453697460667fe40dae831dd534cee9a885b8de1cb3e643ec2f2883baf&=&format=webp&quality=lossless&width=550&height=309" alt="Banner Image" style="max-width:100%;">
+  <img src="https://cdn2.suno.ai/image_large_d448d47c-5a54-4c5d-a6db-6fa63cd5151f.jpeg" alt="Banner Image" style="max-width:100%;">
 </div>
 
 # Hi, I'm Flames 👋
