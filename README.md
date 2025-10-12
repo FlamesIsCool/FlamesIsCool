@@ -1,7 +1,7 @@
 # Flames
 
-I work with **Python**, **Lua**, **HTML**, **CSS**, and **JavaScript**.  
-Most of my projects are experiments, tools, or ways to learn something new 🤷‍♂️.
+I like with **Python**, **Lua**, **HTML**, **CSS**, and **JavaScript**.  
+Most of my projects are tools I make for fun cause im so fucking bored 🤷‍♂️.
 
 ---
 
