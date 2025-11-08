@@ -1,6 +1,5 @@
-<!-- Snowfall Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlamesIsCool/snowfall/main/snowfall.svg" alt="Snowfall animation" width="100%">
+  <img src="https://raw.githubusercontent.com/FlamesIsCool/FlamesIsCool/main/snowfall/snowfall.svg" alt="Snowfall animation" width="100%">
 </p>
 
 ## ❄️ Stuff I Use
@@ -36,7 +35,6 @@
   </a>
 </p>
 
-<!-- Footer Snow -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlamesIsCool/snowfall/main/snowfall.svg" alt="Snowfall animation" width="100%">
+  <img src="https://raw.githubusercontent.com/FlamesIsCool/FlamesIsCool/main/snowfall/snowfall.svg" alt="Snowfall animation" width="100%">
 </p>
