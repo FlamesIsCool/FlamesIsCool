@@ -47,3 +47,10 @@ So I just messed around with the surrondings now I'm good at it. You don't need 
 </div>
 
 ###
+
+<h2 align="left">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/FlamesIsCool/FlamesIsCool/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</p>
+
