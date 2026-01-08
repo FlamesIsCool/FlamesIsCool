@@ -48,9 +48,15 @@ So I just messed around with the surrondings now I'm good at it. You don't need 
 
 ###
 
-<h2 align="left">🐍 Contribution Snake</h2>
-
 <p align="center">
-  <img src="https://github.com/FlamesIsCool/FlamesIsCool/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Programming+isn't+about+what+you+know%3B+it's+about+what+you+can+figure+out" alt="Typing SVG" />
 </p>
 
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FlamesIsCool/FlamesIsCool/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my GitHub contributions" />
+</p>
+
+###
