@@ -1,3 +1,6 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=FlamesIsCool)
+
+
 # hey, i'm flames
 
 I like building random stuff, messing with ideas, and figuring things out as I go.
